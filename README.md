@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AHamers
-- 👀 I’m interested in video game and simulation development. I am a computer science engineer student.
-- 🌱 I’m currently learning about meshes.
-- 💞️ I’m looking for an internship involving Unity.
+- 👀 I’m interested in video game and simulation development. I am a computer science engineer.
+- 🌱 I’m currently learning about client prediction for multiplayer games.
+- 💞️ I’m looking for a job involving Unity.
 - 📫 a.x.hamers@gmail.com
 
 <!---
